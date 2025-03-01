@@ -1,0 +1,6 @@
+![Brand Analysis](![brand-logo](https://github.com/user-attachments/assets/6fa9aaf5-b017-42c4-8e68-a4fe9bfa8875)
+)
+![Fuel Analysis](![Petrol-Diesel-Pump](https://github.com/user-attachments/assets/125a3a23-89b9-4756-9f02-e522147a7c18)
+)
+![Price Analysis](![stock_graph-5bfc2e9746e0fb00260bb3f9](https://github.com/user-attachments/assets/eb679dfe-b549-4d53-a22f-cdcba05b510d)
+)
