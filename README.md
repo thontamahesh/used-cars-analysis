@@ -9,22 +9,25 @@ Analysis of Indian used car market data using Python, focusing on price trends a
 - Analyzed frequency of different car brands in the market
 - Identified most popular brands in the used car market
 - Found correlations between brand and pricing
-![Brand Analysis]()![brand-logo](https://github.com/user-attachments/assets/277146e8-71dc-41d3-bc60-466082b338fc)
+<img src="![brand-logo](https://github.com/user-attachments/assets/0ec9ed5b-a1cd-45c1-8063-a418fbd7dffd)
+" alt="Brand Analysis" width="600"/>
+
 
 
 ### 2. Fuel Type Preferences
 - Studied distribution of fuel types (Petrol, Diesel, CNG)
 - Analyzed price variations across fuel types
 - Identified market preferences
-![Fuel Type Analysis](![Petrol-Diesel-Pump](https://github.com/user-attachments/assets/d3b67357-d120-45ca-a588-6291c13646ff)
-)
+<img src="![Petrol-Diesel-Pump](https://github.com/user-attachments/assets/18b96061-09ac-44e2-b7f4-fba98f8dc360)
+" alt="Fuel Analysis" width="600"/>
 
 ### 3. Market Value Correlations
 - Investigated factors affecting car prices
 - Found strong correlation between age and price
 - Analyzed impact of kilometers driven on value
-![Price Correlation](![stock_graph-5bfc2e9746e0fb00260bb3f9](https://github.com/user-attachments/assets/8350ceb6-da05-4c99-ba17-0e3ab1fcdea1)
-)
+<img src="![stock_graph-5bfc2e9746e0fb00260bb3f9](https://github.com/user-attachments/assets/0e483d94-3b70-4113-a14e-cb16f665d54c)
+" alt="Price Analysis" width="600"/>
+
 
 ## Tools Used
 - Python (Pandas, NumPy)
