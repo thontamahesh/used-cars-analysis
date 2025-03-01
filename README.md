@@ -21,8 +21,7 @@ Analysis of Indian used car market data using Python, focusing on price trends a
 - Investigated factors affecting car prices
 - Found strong correlation between age and price
 - Analyzed impact of kilometers driven on value
-<img src="![stock_graph-5bfc2e9746e0fb00260bb3f9](https://github.com/user-attachments/assets/0e483d94-3b70-4113-a14e-cb16f665d54c)
-" alt="Price Analysis" width="600"/>
+![Price Analysis](images/toy-car-balancing-increasing-coin-stack.jpg)
 
 
 ## Tools Used
